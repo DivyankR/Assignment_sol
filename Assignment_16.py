@@ -6,7 +6,6 @@ for i in range(1999,2005):
 print(years_list)
 yob = years_list[0]
 
-
 # Question 2:
 
 for i in years_list:
