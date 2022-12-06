@@ -4,6 +4,7 @@ d = {}
 print(type(d))
 
 
+
 # Question 2:
 
 d = {'foo':42}
